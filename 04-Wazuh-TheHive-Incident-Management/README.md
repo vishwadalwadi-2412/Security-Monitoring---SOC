@@ -1,4 +1,6 @@
 # Practical 04 — Wazuh and TheHive Incident Management Integration
+> Security Monitoring & SOC | Practical 04
+
 
 ## Aim
 To integrate Wazuh with a free ticketing system for automated generation and centralized management of security alerts as incident tickets.
