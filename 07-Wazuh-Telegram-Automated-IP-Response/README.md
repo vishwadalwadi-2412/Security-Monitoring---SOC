@@ -1,4 +1,6 @@
 # Practical 07 — Telegram-Based Automated IP Blocking and Unblocking with Wazuh
+> Security Monitoring & SOC | Practical 07
+
 
 ## Aim
 To demonstrate an automated workflow in which a security alert is sent to a messaging application and an authorized action button triggers blocking of the specified IP address.
