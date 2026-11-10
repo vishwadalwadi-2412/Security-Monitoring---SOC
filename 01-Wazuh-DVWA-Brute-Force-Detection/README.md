@@ -1,4 +1,6 @@
 # Practical 01 — Wazuh DVWA Brute-Force Detection
+> Security Monitoring & SOC | Practical 01
+
 
 ## Aim
 To install Wazuh and configure it to detect and visualize brute-force login attempts on DVWA by creating custom detection rules and security dashboards.
