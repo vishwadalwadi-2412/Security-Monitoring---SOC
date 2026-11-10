@@ -1,4 +1,6 @@
 # Practical 05 — Wazuh and AlienVault OTX Threat Intelligence
+> Security Monitoring & SOC | Practical 05
+
 
 ## Aim
 To configure threat intelligence on the operating system and integrate it with Wazuh to collect, correlate, and detect indicators of compromise (IoCs) for improved security monitoring.
