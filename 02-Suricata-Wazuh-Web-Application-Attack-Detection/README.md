@@ -1,4 +1,6 @@
 # Practical 02 — Suricata IDS and Wazuh Web Application Attack Detection
+> Security Monitoring & SOC | Practical 02
+
 
 ## Aim
 To configure and integrate Suricata IDS with Wazuh SIEM for detecting and monitoring custom web application attacks using custom detection rules.
