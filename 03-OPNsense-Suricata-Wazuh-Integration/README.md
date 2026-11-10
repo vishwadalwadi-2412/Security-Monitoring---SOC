@@ -1,4 +1,6 @@
 # Practical 03 — OPNsense, Suricata and Wazuh Integration
+> Security Monitoring & SOC | Practical 03
+
 
 ## Aim
 To configure OPNsense with Suricata IDS and integrate it with Wazuh SIEM for detecting, monitoring, and centrally analyzing network traffic and custom intrusion detection alerts.
