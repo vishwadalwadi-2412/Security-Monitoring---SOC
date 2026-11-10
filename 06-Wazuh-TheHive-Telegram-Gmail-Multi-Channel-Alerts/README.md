@@ -1,4 +1,6 @@
 # Practical 06 — Multi-Channel SOC Alert Notifications with TheHive, Telegram and Gmail
+> Security Monitoring & SOC | Practical 06
+
 
 ## Aim
 To integrate a ticketing system with Gmail and a messaging application for automated alert generation and multi-channel notification of security incidents.
